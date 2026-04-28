@@ -1,6 +1,6 @@
 # 🎮 The Minecraft Server Making Guide
 
-> A comprehensive guide for setting up, configuring, and managing your own Minecraft server — from choosing a host to advanced optimization.
+> A comprehensive guide for setting up, configuring, and managing your own Minecraft server — from choosing a host to advanced optimization. This guide might be slightly outdated but i'm currently migrating it to 2026.
 
 ---
 
